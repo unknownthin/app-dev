@@ -1,9 +1,9 @@
 # app-dev
 **My Favorite Movie**
 
-**Movie Name:** The Ron Clark Story
+Movie Name: The Ron Clark Story
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Description:** The Ron Clark Story is an inspiring film based on the true story of a dedicated teacher who leaves his small hometown to teach in one of New York City’s toughest schools. Despite facing disrespect and challenges from his students, Ron Clark uses creative and passionate teaching methods to reach them. He believes in every student’s potential and works tirelessly to help them succeed. Through his persistence, he transforms the class into one of the school’s best-performing groups. The movie highlights the power of hope, determination, and the impact one teacher can make on the lives of many.
+Description: The Ron Clark Story is an inspiring film based on the true story of a dedicated teacher who leaves his small hometown to teach in one of New York City’s toughest schools. Despite facing disrespect and challenges from his students, Ron Clark uses creative and passionate teaching methods to reach them. He believes in every student’s potential and works tirelessly to help them succeed. Through his persistence, he transforms the class into one of the school’s best-performing groups. The movie highlights the power of hope, determination, and the impact one teacher can make on the lives of many.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Why is this my favorite?** 
 1. We can learn a lot of lessons from this movie, especially about patience and dedication.
